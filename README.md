@@ -5,4 +5,4 @@ How to use this awesome shell:
 2. '-login' or '-register' as a user.
 3. start authing! aka just type -help.
 
-### PS. Currently this is NOT a shell anything to do with authenticating, just me playing around. Enjoy!
+> PS. Currently this is NOT a shell anything to do with authenticating, just me playing around. Enjoy!
