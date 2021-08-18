@@ -1,10 +1,8 @@
 {
     "users": {
-        "martis" : [
-            {
+        "martis" : {
                 "password": "qwerty",
                 "newlines_before_command": 1 
-            }
-        ]   
+        }
     }
 }
